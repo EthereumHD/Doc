@@ -28,7 +28,7 @@ EHD挖矿工具，Windows 版
 下载运行前，确保杀毒软件都关闭，或者开启安全软件信赖，因为安全软件可能会无法识别到挖矿程序
 ```
 
-- 请下载好挖矿执行程序![ehd-setup](https://dl.ehd.io/assets/ehd-setup.png)，并解压好，复制到桌面
+- 请下载好挖矿执行程序![ehd-setup](https://dl.ehd.io/assets/ehd-setup.png)，并解压好，复制到系统C盘
 
 - 下载地址：https://github.com/EthereumHD/plot.git
 
