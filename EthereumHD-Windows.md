@@ -28,11 +28,11 @@ EHD挖矿工具，Windows 版
 下载运行前，确保杀毒软件都关闭，或者开启安全软件信赖，因为安全软件可能会无法识别到挖矿程序
 ```
 
-- 在EHD官网上下载好挖矿执行程序![ehd-setup](C:\Users\11380\Desktop\安装文件\ehd-setup.png)，并解压好，复制到桌面
+- 在EHD官网上下载好挖矿执行程序![ehd-setup](https://dl.ehd.io/assets/ehd-setup.png)，并解压好，复制到桌面
 
 - 解压后的文件夹
 
-  - ![ehd-file](C:\Users\11380\Desktop\安装文件\ehd-file.png)
+  - ![ehd-file](https://dl.ehd.io/assets/ehd-file.png)
 
     
 
@@ -44,7 +44,7 @@ EHD挖矿工具，Windows 版
 
 ***PS：每次执行，都需要重新打开 `ehd-setup.cmd` 通过按下对应键盘数字，选择对应功能***
 
-![ehd-cmd](C:\Users\11380\Desktop\安装文件\ehd-cmd.png)
+![ehd-cmd](https://dl.ehd.io/assets/ehd-cmd.png)
 
 1. **扫描磁盘**
    - 用于新建P盘文件夹，生成挖矿文件，执行成功后，可直接关闭窗框
